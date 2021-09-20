@@ -24,7 +24,7 @@ int main()
   printf("\n");
 
   // Calculate the perimeter and the area of the rectangle
-  rectanglePerimeter = (rectangleHeight + rectangleWidth) * 2;
+  rectanglePerimeter = (rectangleHeight + rectangleWidth) * 2.0;
   rectangleArea = rectangleHeight * rectangleWidth;
 
   // Print out the results formated with precision 2
